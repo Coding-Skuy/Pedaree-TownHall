@@ -1,13 +1,12 @@
 > Versi: v1.0.0 | Status: disetujui | Menggantikan: -
 
-# Timeline Living
+# BRD - Event-Demand-Signal
 
 Pedaree mengelola FEFO, 13 satuan hortikultura, event pedaree.stok.v1 ke TitipO, DB pedaree, JWT audien pedaree, serta menjadi konsumen modul pantry-resep milik Pawonee.
 
-- v1.0.0: dokumen dasar disetujui.
-- v1.1.0: validasi QA/TDD dan kontrak service.
-- v2.0.0: scale lintas klaster.
+- BR-004: Event-Demand-Signal wajib mendukung tujuan bisnis divisi Pedaree.
+- Metrik utama harus dapat diverifikasi QA.
 
 ## Batasan
 
-Timeline ini living; snapshot beku ada di versions/v1.0.0/SNAPSHOT-ROADMAP.md.
+BRD tidak berisi desain teknis atau kode.

@@ -1,13 +1,11 @@
 > Versi: v1.0.0 | Status: disetujui | Menggantikan: -
 
-# Timeline Living
+# SRS Glossary
 
 Pedaree mengelola FEFO, 13 satuan hortikultura, event pedaree.stok.v1 ke TitipO, DB pedaree, JWT audien pedaree, serta menjadi konsumen modul pantry-resep milik Pawonee.
 
-- v1.0.0: dokumen dasar disetujui.
-- v1.1.0: validasi QA/TDD dan kontrak service.
-- v2.0.0: scale lintas klaster.
+Dokumen ini menjadi cetak biru formal untuk pengembang dan QA. TDD wajib menurunkan test dari requirement di sini.
 
 ## Batasan
 
-Timeline ini living; snapshot beku ada di versions/v1.0.0/SNAPSHOT-ROADMAP.md.
+SRS tidak memuat kode produksi; hanya requirement formal dan QA gate.
