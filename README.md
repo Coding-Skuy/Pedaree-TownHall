@@ -2,6 +2,9 @@
 
 > Selamat datang, Pengelana. Anda berada di jantung dokumentasi Pedaree.
 > Pilih jalan Anda untuk memahami ekosistem ChefGenie.
+>
+> **Tautan ke visi:** Pedaree adalah dapur visi ChefGenie — FEFO + 13 satuan
+> baku menekan stockout dan waste. Lihat [VISI-MISI](../../VISI-MISI.md).
 
 ---
 
